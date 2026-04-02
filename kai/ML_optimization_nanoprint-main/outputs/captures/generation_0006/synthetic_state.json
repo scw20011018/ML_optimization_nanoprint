@@ -1,0 +1,97 @@
+{
+  "angle_seed": 1158024355,
+  "angle_view_path": "C:\\Users\\17607\\OneDrive\\Desktop\\Capstone Project\\ML_optimization_nanoprint-main\\ML_optimization_nanoprint-main\\outputs\\captures\\generation_0006\\angle_view_synthetic.jpg",
+  "breaks": [
+    {
+      "end_rel": 0.19109462593748025,
+      "line_index": 2,
+      "start_rel": 0.10604914776409559
+    },
+    {
+      "end_rel": 0.7345444390432533,
+      "line_index": 2,
+      "start_rel": 0.6623620575569564
+    },
+    {
+      "end_rel": 0.31753780647279706,
+      "line_index": 0,
+      "start_rel": 0.24105870102074284
+    },
+    {
+      "end_rel": 0.4557958021474572,
+      "line_index": 0,
+      "start_rel": 0.39409647192542097
+    }
+  ],
+  "bulge_strength": 0.8686944136951882,
+  "bulges": [
+    {
+      "amplitude": 0.7237088341048048,
+      "line_index": 2,
+      "width_rel": 0.05234973520078105,
+      "x_rel": 0.26161560219515045
+    },
+    {
+      "amplitude": 0.790273936856977,
+      "line_index": 0,
+      "width_rel": 0.030878404321297338,
+      "x_rel": 0.5302914753017713
+    },
+    {
+      "amplitude": 0.4490659540514558,
+      "line_index": 0,
+      "width_rel": 0.05727672103944552,
+      "x_rel": 0.4541398957093401
+    }
+  ],
+  "collapse_strength": 0.272322212714467,
+  "continuity_strength": 0.8818837310109142,
+  "diffusion_strength": 0.831263541008486,
+  "generation": 6,
+  "global_rotation_deg": 3.7639132171264844,
+  "ideal_mix_ratio": 0.5,
+  "ideal_mix_time": 20.0,
+  "illumination_strength": 18.817755268809222,
+  "illumination_tilt": -0.4032303544195281,
+  "line_count": 3,
+  "line_offset_bias": [
+    -0.05487785112557966,
+    0.4032234121982036,
+    0.5378364424487211
+  ],
+  "line_phase": [
+    4.272048658717694,
+    0.7726582190801724,
+    0.3250243503521407
+  ],
+  "line_width_bias": [
+    0.09931152287684493,
+    0.167527696749271,
+    -0.24078198407521167
+  ],
+  "merge_strength": 0.6418090480023108,
+  "merge_windows": [
+    {
+      "pair_index": 0,
+      "strength": 0.4552276918230156,
+      "width_rel": 0.11208751435786352,
+      "x_rel": 0.4475546661656896
+    }
+  ],
+  "mix_ratio": 0.24900816910213674,
+  "mix_time": 41.10220344765564,
+  "profile_height_scale": 0.659769166384535,
+  "profile_inconsistency_strength": 0.839679324115603,
+  "ratio_error": -0.25099183089786326,
+  "ratio_strength": 0.7171195168510379,
+  "roughness_strength": 0.859679324115603,
+  "sagging_strength": 0.7939604031140048,
+  "seed": 6,
+  "sensor_noise_sigma": 4.381723393068716,
+  "spacing_variation_strength": 0.49441573426807084,
+  "time_error": 21.10220344765564,
+  "time_strength": 0.8440881379062256,
+  "top_seed": 1443725187,
+  "top_view_path": "C:\\Users\\17607\\OneDrive\\Desktop\\Capstone Project\\ML_optimization_nanoprint-main\\ML_optimization_nanoprint-main\\outputs\\captures\\generation_0006\\top_view_synthetic.jpg",
+  "width_variation_strength": 0.9050428447479474
+}
