@@ -42,7 +42,7 @@ print("mix_time =", mix_time)
 # The printer prints the pattern using the prepared material.
 
 # Step 5: Capture image of printed result
-image_path = capture_image("current_capture.jpg")
+image_path = capture_image()
 
 # Step 6: Image processing
 result = analyze_image(image_path)
